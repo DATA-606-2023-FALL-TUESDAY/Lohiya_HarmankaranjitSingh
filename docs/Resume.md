@@ -72,3 +72,13 @@ hand -->
   - CYBR 652 Enterprise Security
 
 ## Skills
+
+- Programming :	Python, Java, C, C# , .Net
+- Web Technologies :	HTML, CSS, JavaScript
+- Databases :	SQL, MYSQL
+- Software and Tools	: Visual Studio, Excel, Eclipse, Jupyter Notebook
+- Other Technical Skills	: GitHub 
+
+
+
+
