@@ -1,5 +1,3 @@
-# UMBC-DATA606-FALL2023-TUESDAY Harmankaranjit Singh Lohiya 
-
 <!-- The (first) h1 will be used as the <title> of the HTML page -->
 # Harmankaranjit Singh Lohiya 
 
