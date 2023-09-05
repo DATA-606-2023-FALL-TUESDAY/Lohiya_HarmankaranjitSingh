@@ -1,4 +1,5 @@
-<!-- The (first) h1 will be used as the <title> of the HTML page -->
+<img src="https://github.com/KARANS12/UMBC-DATA606-FALL2023-TUESDAY/blob/main/221710303017.jpg.jpg" width="150" height="200" alt="My Headshot">
+
 # Harmankaranjit Singh Lohiya 
 
 <!-- The unordered list immediately after the h1 will be formatted on a single
