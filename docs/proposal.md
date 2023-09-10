@@ -129,7 +129,13 @@ Collaborating across disciplines, including criminology, sociology, data science
 7. What are the correlations between crime rates and socio-demographic factors, and how do these relationships vary by crime type?
 8. To what extent does income inequality contribute to crime disparities within Baltimore neighborhoods?
 
+## 3. Data 
 
+**Describe the datasets you are using to answer your research questions.**
+
+- Data sources: https://www.kaggle.com/datasets/sohier/crime-in-baltimore
+- Data size: 9 MB
+- Data shape: # of rows - 89943 and # columns - 15
 
 
 
