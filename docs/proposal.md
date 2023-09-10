@@ -1,6 +1,6 @@
 # Capstone Proposal
  
-## 1. Proposal Title: Crime in Baltimore
+## 1. Proposal Title: Data Analysis of Crime in Baltimore
 
 - **Author Name** - Harmankaranjit Singh Lohiya 
 
@@ -108,9 +108,10 @@ Collaborating across disciplines, including criminology, sociology, data science
 - Data sources: https://www.kaggle.com/datasets/sohier/crime-in-baltimore
 - Data size: 9 MB
 - Data shape: # of rows - 89943 and # columns - 15
+ 
 
 
-**What features are important, what column means what**
+### **What features are important, what column means what**
 
 CrimeDate: The date when the crime occurred.
 
