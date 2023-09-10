@@ -118,6 +118,17 @@ Addressing ethical considerations in the collection, use, and sharing of crime d
 Interdisciplinary Research:
 Collaborating across disciplines, including criminology, sociology, data science, urban planning, and public health, to gain a comprehensive understanding of crime dynamics.
 
+### Few questions could be: 
+
+1. What are the ethical implications of collecting and using crime data, and how can data privacy concerns be addressed while ensuring public safety?
+2. How can transparent and accountable data practices be implemented in the context of crime data analysis?
+3. Can machine learning models accurately predict the likelihood of specific types of crimes occurring in different neighborhoods and at different times?
+4. How can predictive policing models be effectively integrated into law enforcement strategies to prevent crimes and allocate resources efficiently?
+5. How can crime severity be quantified and categorized, and what are the implications of using different severity metrics on law enforcement priorities?
+6. Does the severity of a crime impact the probability of arrest, conviction, or sentencing outcomes?
+7. What are the correlations between crime rates and socio-demographic factors, and how do these relationships vary by crime type?
+8. To what extent does income inequality contribute to crime disparities within Baltimore neighborhoods?
+
 
 
 
