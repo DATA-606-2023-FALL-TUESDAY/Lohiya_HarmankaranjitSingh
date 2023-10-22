@@ -1,6 +1,6 @@
 # Capstone Proposal
  
-## 1. Proposal Title: Data Analysis of Crime in Baltimore
+## 1. Integration of Deep Learning Techniques for Enhanced Patient Diagnostics in Healthcare
 
 - **Author Name** - Harmankaranjit Singh Lohiya 
 
@@ -14,129 +14,47 @@
 ## 2. Background
 
 
-"Crime in Baltimore" dataset is related to crime incidents in the city of Baltimore. It contains information about various crime-related attributes for different incidents and it's main agenda will be how it's gonna be a direct impact on public safety, resource allocation, policy decisions, community engagement, and the overall well-being of a city's residents. By analyzing and acting upon this data, cities can work to reduce crime rates, improve safety, and enhance the quality of life for their communities.
+The integration of artificial intelligence, particularly deep learning, into medical diagnostics has revolutionized disease identification through the digitalization of medical imaging methods. Deep learning models, such as Convolutional Neural Networks (CNNs), have demonstrated remarkable capabilities in automatically identifying complex patterns in medical images, enabling tasks like lesion identification and parts delineation. Some notable studies have showcased deep learning's potential to outperform human experts in skin malignancy and chest CT scan analysis. This advancement holds promise for enhancing diagnostic precision and cost-effectiveness, as well as expediting patient care. However, challenges remain, including concerns about data security and the interpretability of deep learning algorithms, which need to be addressed for their successful integration into healthcare assessments.
 
 ### Now, why does it matter?
 
-Public Safety: Crime data analysis is essential for ensuring the safety of residents and visitors in a city. By identifying crime patterns and trends, law enforcement agencies can allocate resources effectively, deploy officers to high-crime areas, and take proactive measures to prevent criminal activities.
+A quick and precise assessment could mean what separates death and life in the complex world of healthcare. While successful, conventional diagnostic techniques frequently rely on the knowledge of medical experts and can occasionally be flawed by mistakes made by individuals. Additionally, there is a pressing demand for automated, effective, and exact methods of diagnosis given the expanding amount of health information. With its aptitude for managing huge data sets 
+and generating insightful conclusions, artificial intelligence presents a viable answer to these problems. The process of diagnosis might be revolutionized by using deep learning algorithms, assuring early identification and intervention, which may substantially enhance the health of patients and reduce healthcare expenses.
 
-Resource Allocation: It helps governments and law enforcement agencies allocate resources efficiently. By analyzing crime hotspots and types, they can make informed decisions about where to allocate police officers, surveillance, and other resources to deter criminal activities.
 
-Crime Prevention: Insights from crime data can lead to more effective crime prevention strategies. Identifying recurring patterns can help design interventions and programs aimed at reducing specific types of crimes or criminal behavior.
+### Research Questions:
 
-Community Engagement: Crime data can be shared with the community, fostering transparency and citizen engagement. Communities can become more actively involved in neighborhood watch programs, community policing efforts, and other initiatives aimed at reducing crime.
+1. What can be done to improve the precision and effectiveness of illness detection from medical images using deep learning techniques, particularly CNNs?
+2. What current issues in medical diagnostics need to be addressed, and how may deep learning help?
+3. What steps can we take to make sure that healthcare practitioners can understand and justify the predictions that deep learning models make?
+4. How will integrating deep learning techniques affect the whole healthcare system, particularly in terms of patient outcomes and treatment effectiveness?
 
-Policy Development: Policymakers can use crime data to inform the development of public policies related to crime prevention, criminal justice reform, and public safety. Data-driven policies are often more effective and targeted.
+###  Aim of the Research Project and Definition of Objectives:
 
-Resource Efficiency: Efficient allocation of resources based on data analysis can lead to cost savings for municipalities. By targeting resources where they are needed most, cities can reduce unnecessary expenditures.
-
-Public Perception: Crime rates and trends can influence the perception of safety within a city. A reduction in crime can improve the quality of life for residents and encourage economic development.
-
-Criminal Justice: The criminal justice system benefits from crime data analysis by identifying trends in types of cases, case clearance rates, and areas where additional court resources may be needed.
-
-Research and Academia: Crime data provides a valuable resource for researchers and academics studying criminology, sociology, and related fields. It enables the development of theories, evaluation of interventions, and the advancement of knowledge in these areas.
-
-Emergency Response: Crime data can also inform emergency response planning. Understanding when and where crimes are more likely to occur can help emergency services prepare for potential incidents.
-
-### Research Scope?
-
-Crime Pattern Analysis:
-Analyzing historical crime data to identify recurring patterns, trends, and spatial-temporal variations in crime occurrences.
-Investigating the factors influencing crime patterns, such as socio-economic conditions, population density, and environmental factors.
-
-Predictive Modeling:
-Developing predictive models to forecast future crime rates, types, and locations based on historical data and relevant features.
-Evaluating the effectiveness of predictive policing strategies in preventing and responding to crimes.
-
-Crime Severity Assessment:
-Creating models or algorithms to assess the severity of different types of crimes and prioritize law enforcement responses accordingly.
-Investigating the impact of crime severity on the criminal justice system and sentencing outcomes.
-
-Geospatial Analysis:
-Conducting geospatial analysis to map and visualize crime hotspots, identifying areas with elevated crime rates.
-Assessing the effectiveness of spatially targeted interventions and community policing efforts.
-
-Community Engagement and Policing Strategies:
-Studying community engagement initiatives, neighborhood watch programs, and their impact on crime prevention.
-Evaluating the effectiveness of community-oriented policing strategies in building trust and reducing crime.
-
-Social and Demographic Factors:
-Analyzing the relationship between crime rates and socio-demographic factors, including income, education, race, and employment.
-Investigating the role of social determinants of crime and inequality.
-
-Crime Prevention and Intervention Programs:
-Evaluating the outcomes of crime prevention programs and interventions, such as youth mentorship, drug rehabilitation, and restorative justice programs.
-Assessing the cost-effectiveness and long-term impact of these initiatives.
-
-Criminal Justice System Analysis:
-Investigating the processing of criminal cases within the criminal justice system, including case clearance rates, court outcomes, and sentencing disparities.
-Identifying areas for reform and improvements in the justice system.
-
-Temporal Analysis:
-Studying temporal patterns in crime, including daily, weekly, and seasonal variations.
-Examining the influence of time-related factors on crime commission and reporting.
-
-Machine Learning and AI Applications:
-Exploring the application of machine learning and artificial intelligence techniques for crime prediction, anomaly detection, and risk assessment.
-Developing predictive policing tools and real-time crime monitoring systems.
-
-Public Policy and Governance:
-Assessing the impact of public policies, such as gun control measures, policing practices, and criminal justice reforms, on crime rates and public safety.
-Providing evidence-based recommendations for policy development.
-
-Data Privacy and Ethics:
-Addressing ethical considerations in the collection, use, and sharing of crime data, especially in the context of privacy concerns and data security.
-
-Interdisciplinary Research:
-Collaborating across disciplines, including criminology, sociology, data science, urban planning, and public health, to gain a comprehensive understanding of crime dynamics.
-
-### Few Research questions could be: 
-
-1. What are the ethical implications of collecting and using crime data, and how can data privacy concerns be addressed while ensuring public safety?
-2. How can transparent and accountable data practices be implemented in the context of crime data analysis?
-3. Can machine learning models accurately predict the likelihood of specific types of crimes occurring in different neighborhoods and at different times?
-4. How can predictive policing models be effectively integrated into law enforcement strategies to prevent crimes and allocate resources efficiently?
-5. How can crime severity be quantified and categorized, and what are the implications of using different severity metrics on law enforcement priorities?
-6. Does the severity of a crime impact the probability of arrest, conviction, or sentencing outcomes?
-7. What are the correlations between crime rates and socio-demographic factors, and how do these relationships vary by crime type?
-8. To what extent does income inequality contribute to crime disparities within Baltimore neighborhoods?
+1. To improve the precision and accuracy of disease diagnosis from medical imagery. 
+2. To reduce the time taken to diagnose diseases, enabling timely interventions. 
+3. To study state-of-the-art approaches of AI techniques. 
+4. To develop a model that can be fine-tuned or adapted to diagnose a variety of diseases or conditions. 
+5. To ensure that the model's predictions can be understood and rationalized by healthcare professionals.
 
 ## 3. Data 
 
 **Describe the datasets you are using to answer your research questions.**
 
-- Data sources: https://www.kaggle.com/datasets/sohier/crime-in-baltimore
-- Data size: 9 MB
-- Data shape: # of rows - 89943 and # columns - 15
+- Data sources: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia/
+- Data size: 2 GB
+- Data shape: Image-JPEG
  
 
 
-### **What features are important, what column means what**
+### **Dataset Features**
 
-CrimeDate: The date when the crime occurred.
+- The accuracy and usefulness of the training data have a considerable impact on the effectiveness of the algorithm, particularly in medical diagnoses. The raw data set used in this study is thoroughly examined in the following section with an emphasis on its source, size, framework, and quality. Understanding the peculiarities of the information set guarantees the framework's construction and assessment stages are tackled with clarity and precision.
 
-CrimeTime: The time of day when the crime occurred.
+- Diverse data in the vast area of healthcare imaging make it easier to conduct research, particularly for advanced machine learning applications. Chest X-ray scans have been selected as the specific sample for this investigation. Images from the dataset are divided into two main groups: normal and pneumonia. Given the frequency and importance of pneumonia identification, this set of data is very pertinent to the goals of the study.
 
-CrimeCode: A code for the type of crime.
+- The data set's arrangement is rather simple. Each photo has a caption stating that it depicts a normal condition or a pneumonia condition because there are two distinct types. As a result, each entry in the collection comprises of an image and its associated label.
 
-Location: The location where the crime took place.
+- This dataset contains photos and descriptions that were gathered between the years 2010 and 2020 and span a decade. Due to the wide range of disease trends and developments throughout this long period of time, an adequate sample of patients is ensured.
 
-Description: A description of the crime.
-
-Inside/Outside: Indicates whether the crime occurred inside or outside.
-
-Weapon: The type of weapon used.
-
-Post: Police post associated with the incident.
-
-District: The police district in Baltimore.
-
-Neighborhood: The neighborhood where the crime occurred.
-
-Longitude and Latitude: Geographic coordinates of the crime location.
-
-Location 1: Additional geographic location information.
-
-Premise: The type of premise where the crime occurred.
-
-Total Incidents: Possibly the total number of incidents at that location or within a specific timeframe.
+- The dataset's entries and rows each refer to a particular chest X-ray picture. There is a label next to the image stating whether it belongs in the "normal" category or the "pneumonia" category
