@@ -163,9 +163,9 @@ An free to use web tool called Jupyter Notebook facilitates the development and 
 
 ![](report_img_1.png)![](report_img_2.png)
 
-![](Aspose.Words.de6df561-5f44-446c-848f-47ba8a9a1346.003.png)
+![](report_img_3.png)
 
-![](Aspose.Words.de6df561-5f44-446c-848f-47ba8a9a1346.004.png)
+![](report_img_4.png)
 
 ## <a name="_toc147983922"></a>**3.3 Focus on Target Variable and Features**
 The diagnostic result is the key variable. Each X-ray picture is specifically assigned to one of two groups:
@@ -177,13 +177,13 @@ The X-ray picture represents the most important tool we have at our disposal. Ea
 ## <a name="_toc147983923"></a>**3.4 Summary Statistics and Visualization**
 It is easier to comprehend the structure, principal tendency, and dispersion of the data when short statistics are produced. Identifying the pattern of distribution of normal vs pneumonia photos, overall image dimensions, pixel density contributions, etc. in the setting of our picture dataset would be necessary. Data may be understood more easily through representations. While strong programs like Matplotlib are available, Plotly Express provides interactive charts that are very useful for our dataset. It would be useful to visualize the intensity of the pixels patterns of a portion of normal and pneumonia photos as well as any other pertinent data.
 
-![](Aspose.Words.de6df561-5f44-446c-848f-47ba8a9a1346.005.png)
+![](report_img_5.png)
 
-![](Aspose.Words.de6df561-5f44-446c-848f-47ba8a9a1346.006.png)
+![](report_img_6.png)
 
-![](Aspose.Words.de6df561-5f44-446c-848f-47ba8a9a1346.007.png)
+![](report_img_7.png)
 
-![](Aspose.Words.de6df561-5f44-446c-848f-47ba8a9a1346.008.png)
+![](report_img_8.png)
 ## <a name="_toc147983924"></a>**3.6 Data Cleansing , Transformation, Augmenting with External Data, Pre-processing**
 It is crucial to guarantee the accuracy of the data. Data cleaning is a crucial stage in this procedure for this investigation. As an example, lacking values might be a critical issue. The statistical accuracy might be substantially hampered by a poorly loaded image or a missing description. Such irregularities must be found and properly fixed. Another possible hazard is the existence of identical columns or photos. Repeated data can induce bias by forcing an automated algorithms to incorrectly emphasize particular patterns, which results in overfitting. Therefore, it is essential to find and remove repetitions in order to retain the dataset's validity.
 
@@ -208,7 +208,7 @@ Predictive statistics has been assigned to the CNN. Because of its distinctive d
 ## <a name="_toc147983928"></a>**4.2 Model Training Approach**
 Labeled data are fed into a CNN during training. Every X-ray picture in this situation is sent over the network and assigned both the label "Normal" or "Pneumonia." The disparity among the prediction of the model and the real label—also known as the error—is calculated. The inbuilt settings are then adjusted as a result of the mistake being back-propagated via the network. Up until the model's forecasts are adequately accurate, this procedure is performed repeatedly (iterations).
 
-![](Aspose.Words.de6df561-5f44-446c-848f-47ba8a9a1346.009.png)
+![](report_img_9.png)
 ## <a name="_toc147983929"></a>**4.3 Data Splitting Strategy**
 There are training and testing sets for the set of data. It has been decided to employ an eighty percent to twenty split, where eighty percent of the data is used for training and twenty percent is set aside for testing. Through this division, the model is given enough data for learning from while simultaneously maintaining an objective sample of data to assess its effectiveness.
 ## <a name="_toc147983930"></a>**4.4 Python Packages and Libraries**
@@ -230,13 +230,13 @@ To gauge the model's efficiency, several metrics are employed:
 - Confusion Matrix: A table used to describe the performance of a classification model on a set of data for which the true values are known.
 - Classification Report: It provides a detailed breakdown of precision, recall, and F1-score for each class.
 
-![](Aspose.Words.de6df561-5f44-446c-848f-47ba8a9a1346.010.png)
+![](report_img_10.png)
 
-![](Aspose.Words.de6df561-5f44-446c-848f-47ba8a9a1346.011.png)
+![](report_img_11.png)
 
-![](Aspose.Words.de6df561-5f44-446c-848f-47ba8a9a1346.012.png)
+![](report_img_12.png)
 
-![](Aspose.Words.de6df561-5f44-446c-848f-47ba8a9a1346.013.png)
+![](report_img_13.png)
 
 Possible overfitting is revealed by contrasting the algorithms efficiency on the training set with the test set. The algorithm may be over-fitting if it works very well on the data used as training but badly on the data being tested. On the other hand, if it does inadequately in both, it may be underfitting and require architectural changes.
 
