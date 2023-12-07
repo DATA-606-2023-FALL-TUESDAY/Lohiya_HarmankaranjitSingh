@@ -1,6 +1,6 @@
 # Capstone Proposal
  
-## 1. Proposal Title: Integration of Deep Learning Techniques for Enhanced Patient Diagnostics in Healthcare
+## Proposal Title: Integration of Deep Learning Techniques for Enhanced Patient Diagnostics in Healthcare
 
 - **Author Name** - Harmankaranjit Singh Lohiya
 - **Prepared for** - UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
