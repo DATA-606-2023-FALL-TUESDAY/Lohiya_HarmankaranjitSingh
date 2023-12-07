@@ -9,8 +9,6 @@
   
 - <a href="https://www.linkedin.com/in/harmankaranjit-singh-l-b33161251/"><img align="left" src="https://img.shields.io/badge/-LinkedIn-1E90FF?logo=linkedin&style=flat" alt="icon | GitHub"/></a>
 - <a href="https://github.com/DATA-606-2023-FALL-TUESDAY/Lohiya_HarmankaranjitSingh/blob/main/docs/Project_PPT.pptx"><img src="https://img.shields.io/badge/-PowerPoint Presentation Download-B7472A?logo=microsoftpowerpoint&style=flat" alt="icon | GitHub"/></a>  
-
-- **PowerPoint presentation file** - In Progress
 - **YouTube video** - In Progress
 
 # **Contents**
