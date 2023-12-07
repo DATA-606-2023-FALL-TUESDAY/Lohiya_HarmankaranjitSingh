@@ -161,7 +161,7 @@ The selected dataset, with its emphasis on pneumonia identification, serves as a
 ## <a name="_toc147983921"></a>**3.2 Data Exploration with Jupyter Notebook**
 An free to use web tool called Jupyter Notebook facilitates the development and distribution of files with active coding, problems, visuals, and text. Jupyter Notebook has been used in our research to load and examine the data set. This engaging tool allows for quick representations and calculations, which makes it easier to comprehend the dataset's complexities.
 
-![](report_img_1)![](Aspose.Words.de6df561-5f44-446c-848f-47ba8a9a1346.002.png)
+![](report_img_1.png)![](Aspose.Words.de6df561-5f44-446c-848f-47ba8a9a1346.002.png)
 
 ![](Aspose.Words.de6df561-5f44-446c-848f-47ba8a9a1346.003.png)
 
