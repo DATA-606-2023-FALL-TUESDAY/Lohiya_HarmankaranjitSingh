@@ -1,15 +1,15 @@
-﻿Integration of Deep Learning Techniques for Enhanced Patient Diagnostics in Healthcare
+# Capstone Proposal
+ 
+## 1. Proposal Title: Integration of Deep Learning Techniques for Enhanced Patient Diagnostics in Healthcare
 
-University Of Maryland Baltimore County
-
-DATA 606: Capstone Project Report
-
-
-Prof: Dr. Chaojie Wang
-
-Student: Harmankaranjit Singh Lohiya
-
-ID: QO38890
+- **Author Name** - Harmankaranjit Singh Lohiya
+- **Prepared for** - UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
+- **Semester** - Fall 2023
+- <a href="https://github.com/DATA-606-2023-FALL-TUESDAY/Lohiya_HarmankaranjitSingh"><img align="left" src="https://img.shields.io/badge/-GitHub-CD5C5C?logo=github&style=flat" alt="icon | LinkedIn"/></a> 
+  
+- <a href="https://www.linkedin.com/in/harmankaranjit-singh-l-b33161251/"><img align="left" src="https://img.shields.io/badge/-LinkedIn-1E90FF?logo=linkedin&style=flat" alt="icon | GitHub"/></a>  
+- **PowerPoint presentation file** - In Progress
+- **YouTube video** - In Progress
 
 # **Contents**
 [Chapter 1: Introduction	2](#_toc147983902)
@@ -161,7 +161,7 @@ The selected dataset, with its emphasis on pneumonia identification, serves as a
 ## <a name="_toc147983921"></a>**3.2 Data Exploration with Jupyter Notebook**
 An free to use web tool called Jupyter Notebook facilitates the development and distribution of files with active coding, problems, visuals, and text. Jupyter Notebook has been used in our research to load and examine the data set. This engaging tool allows for quick representations and calculations, which makes it easier to comprehend the dataset's complexities.
 
-![](Aspose.Words.de6df561-5f44-446c-848f-47ba8a9a1346.001.png)![](Aspose.Words.de6df561-5f44-446c-848f-47ba8a9a1346.002.png)
+![](report_img_1)![](Aspose.Words.de6df561-5f44-446c-848f-47ba8a9a1346.002.png)
 
 ![](Aspose.Words.de6df561-5f44-446c-848f-47ba8a9a1346.003.png)
 
