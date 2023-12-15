@@ -9,7 +9,7 @@
   
 - <a href="https://www.linkedin.com/in/harmankaranjit-singh-l-b33161251/"><img align="left" src="https://img.shields.io/badge/-LinkedIn-1E90FF?logo=linkedin&style=flat" alt="icon | GitHub"/></a>
 - <a href="https://github.com/DATA-606-2023-FALL-TUESDAY/Lohiya_HarmankaranjitSingh/blob/main/docs/Project_PPT.pptx"><img src="https://img.shields.io/badge/-PowerPoint Presentation Download-B7472A?logo=microsoftpowerpoint&style=flat" alt="icon | GitHub"/></a>  
-- **YouTube video** - In Progress
+- <a href="https://www.youtube.com/watch?v=2l1Y1y1U_rg"><img align="left" src="https://img.shields.io/badge/-YouTube Presentation-FF0000?logo=youtube&style=flat" alt="icon | YouTube"/></a> 
 
 # **Contents**
 [Chapter 1: Introduction	2](#_toc147983902)
